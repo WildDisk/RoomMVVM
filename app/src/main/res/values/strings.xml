@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Room MVVM</string>
+    <string name="delete_all_notes">Delete all notes</string>
+</resources>
